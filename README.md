@@ -10,7 +10,6 @@ Run Manual:
   > - g++
   > - libglm-dev
   > - qt5-default (optional)
-  > - g++ (optional)
   > - qtcreator (optional)
 - Commands typed in terminal
   > - make clean
