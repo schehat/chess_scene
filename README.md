@@ -1,4 +1,4 @@
-# Chess-Scene
+# chess-scene
 
 Created a chess scene with QT and OpenGL during the computer graphics 1 course. Focusing on the computer graphics pipeline and rendering a scene with geometric objects.
 
