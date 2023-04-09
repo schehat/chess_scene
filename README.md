@@ -1,6 +1,6 @@
 # chess_scene
 
-Created a chess scene with QT and OpenGL during the computer graphics 1 course at the university Hochschule Hannover. Focusing on the computer graphics pipeline and rendering a scene with geometric objects - polygons.
+Created a chess scene with QT and OpenGL during the computer graphics 1 course. Focusing on the computer graphics pipeline and rendering a scene with geometric objects - polygons.
 
 Runs on Ubuntu 20.04. The GPU has to support OpenGL 3.3.
 
