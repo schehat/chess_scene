@@ -4,6 +4,8 @@ Created a chess scene with QT and OpenGL during the computer graphics 1 course. 
 
 Runs on Ubuntu 20.04. The GPU has to support OpenGL 3.3.
 
+![Screenshot](chess_scene.png)
+
 Run Manual:
 
 - following packets need to be installed
